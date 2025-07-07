@@ -1,7 +1,4 @@
-2. Documentación en el README.md
-El archivo debe incluir:
 
-a. Portada
 # Portafolio
 ## Descripción del proyecto
 En este portafolio es un proyecto hecho por mi ocupando una platilla de boostrap, en este proyecto pongo un poc de mis metas a futuro
